@@ -1,0 +1,41 @@
+_repo: The-Meaning-of-Truth_5117
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, William
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '325'
+    url: http://www.gutenberg.org/2009/agents/325
+    wikipedia: http://en.wikipedia.org/wiki/William_James
+description: Philosopher, psychologist, educator, and author William James ranked
+  among the most influential figures of his time. James played a prominent role in
+  the transition from a predominantly European-centered nineteenth century philosophy
+  to a new pragmatic American philosophy. One of his chief contributions lay in his
+  seminal 1907 work, Pragmatism, which featured a controversial chapter on "truth."
+  In response to his critics- most of whom had misunderstood his thesis - James wrote
+  The meaning of Truth, a synthesis of everything he had ever written on the theory
+  of knowledge, including and article on the function of cognition, later polemic
+  and expository contributions and some replies to previous criticism.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reality'
+- !lcsh 'Pragmatism'
+- !lcc 'B'
+- !lcsh 'Truth'
+- GITenberg
+tableOfContents: The function of cognition -- The tigers in India -- Humanism and
+  truth -- The relation between knower and known -- The essence of humanism -- A word
+  more about truth -- Professor Platt on truth -- The pragmatist account of truth
+  and its misunderstanders -- The meaning of the word truth -- The existance of Julius
+  Caesar -- The absolute and the strenuous life -- Professor Hebert on pragmatism
+  -- Abstractionism and 'relativismus' -- Two English critics -- A dialogue.
+title: The Meaning of Truth
+url: http://www.gutenberg.org/ebooks/5117
